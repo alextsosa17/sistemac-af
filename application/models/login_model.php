@@ -11,9 +11,9 @@ class Login_model extends CI_Model
     function loginMe($email, $ecryptPassword)
     {
 
-        // var_dump($email);
-        // var_dump($ecryptPassword);
-        // die;
+        var_dump($email);
+        var_dump($ecryptPassword);
+        die;
 
         $this->db->select('BaseTbl.userId, BaseTbl.name, BaseTbl.roleId, Roles.role');
         $this->db->from('tbl_users as BaseTbl');
