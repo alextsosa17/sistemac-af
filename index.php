@@ -36,8 +36,7 @@ if (defined('ENVIRONMENT'))
 	switch (ENVIRONMENT)
 	{
 		case 'development':
-			var_dump("2");
-			die;
+		
 			error_reporting(E_ALL);
 		break;
 

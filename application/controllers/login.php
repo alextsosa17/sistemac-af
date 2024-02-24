@@ -42,7 +42,7 @@ class Login extends CI_Controller
             $ecryptPassword = md5($password);
 
             $result = $this->login_model->loginMe($email, $ecryptPassword);
-
+            echo "aca";
             if(count($result) > 0){
                 foreach ($result as $res) {
                     $sessionArray = array('userId'=>$res->userId,
@@ -56,7 +56,7 @@ class Login extends CI_Controller
 
                                             'isLoggedIn' => TRUE
                                     );
-
+                    
                     $this->session->set_userdata($sessionArray);
                     redirect('dashboard');
                     // redirect('bienvenido');

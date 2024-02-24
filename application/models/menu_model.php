@@ -4,7 +4,7 @@ class Menu_model extends CI_Model
 {
   function getMenus($tipo = 0, $role)
   {
-      $this->db->select('M.id, M.icono, M.nombre,  M.link, M.orden, M.padre');
+      $this->db->select('M.id, M.icono, M.nombre_menu,  M.link, M.orden, M.padre');
       $this->db->from('menu as M');
       $this->db->join('menu_permisos as MP', 'MP.id_menu= M.id','left');
       $this->db->where('M.tipo',$tipo);

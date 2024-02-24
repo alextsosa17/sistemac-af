@@ -8,21 +8,18 @@ class Login_model extends CI_Model
      * @param string $email : This is email of the user
      * @param string $password : This is encrypted password of the user
      */
-    function loginMe($email, $ecryptPassword)
+    function loginMe($email, $encryptedPassword)
     {
 
-        var_dump($email);
-        var_dump($ecryptPassword);
-        die;
-
-        $this->db->select('BaseTbl.userId, BaseTbl.name, BaseTbl.roleId, Roles.role');
-        $this->db->from('tbl_users as BaseTbl');
-        $this->db->join('tbl_roles as Roles','Roles.roleId = BaseTbl.roleId');
-        // $this->db->join('tbl_puestos as P','P.id = BaseTbl.puesto');
-        $this->db->where('BaseTbl.email', $email);
-        $this->db->where('BaseTbl.password', $ecryptPassword);
-        $this->db->where('BaseTbl.isDeleted', 0);
+        $this->db->select('usuarios.id_usuario, usuarios.nombre, Usuario_Rol.id_rol');
+        // Usuario_Rol.id_rol, Roles.nombre_rol as role');
+        $this->db->from('usuarios');
+        $this->db->join('Usuario_Rol', 'usuarios.id_usuario = usuario_rol.id_usuario');
+        $this->db->join('Roles', 'Usuario_Rol.id_rol = Roles.id_rol');
+        $this->db->where('usuarios.correo', $email);
+        $this->db->where('usuarios.contraseña', $encryptedPassword);
         $query = $this->db->get();
+        
 
         return $query->result();
     }

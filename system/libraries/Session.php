@@ -60,7 +60,7 @@ class CI_Session {
 
 		// Set the super object to a local variable for use throughout the class
 		$this->CI =& get_instance();
-
+		
 		// Set all the session preferences, which can either be set
 		// manually via the $params array above or via the config file
 		foreach (array('sess_encrypt_cookie', 'sess_use_database', 'sess_table_name', 'sess_expiration', 'sess_expire_on_close', 'sess_match_ip', 'sess_match_useragent', 'sess_cookie_name', 'cookie_path', 'cookie_domain', 'cookie_secure', 'sess_time_to_update', 'time_reference', 'cookie_prefix', 'encryption_key') as $key)
@@ -474,7 +474,10 @@ class CI_Session {
 	 * @return	void
 	 */
 	function set_userdata($newdata = array(), $newval = '')
-	{
+	{	
+
+	
+
 		if (is_string($newdata))
 		{
 			$newdata = array($newdata => $newval);

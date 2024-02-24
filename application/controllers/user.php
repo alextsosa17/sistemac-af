@@ -10,9 +10,9 @@ class User extends BaseController
         $this->isLoggedIn();
         $this->menuPermisos();
         $this->load->model('user_model');
-        $this->load->model('equipos_model');
-        $this->load->model('mensajes_model');
-		    $this->load->library('export_excel');
+        // $this->load->model('equipos_model');
+        // $this->load->model('mensajes_model');
+		    // $this->load->library('export_excel');
         $this->load->library('pagination');
         $this->load->library('form_validation');
     }
@@ -20,7 +20,7 @@ class User extends BaseController
 
     public function index() // This function used to load the first screen of the user.
     {
-        $this->global['pageTitle'] = 'CECAITRA: Stock';
+        $this->global['pageTitle'] = 'Stock';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);

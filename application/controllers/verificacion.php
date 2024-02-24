@@ -404,8 +404,7 @@ class Verificacion extends BaseController
         // $data
         $url = "http://localhost/WS/cantidad_fotos_por_editor.php"; //web service en integral net
         $data['datos'] = json_decode(file_get_contents($url));   
-        var_dump($data);
-        die;
+        
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('verificacion/estadisticas_editores',$data);
