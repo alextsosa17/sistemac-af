@@ -38,8 +38,8 @@
     <div class="wrapper">
       <header class="main-header">
         <a href="<?= base_url(); ?>" class="logo">
-          <span class="logo-mini"><b>S</b>C</span>
-          <span class="logo-lg"><b>Sistema de</b> Gestion</span>
+          <span class="logo-mini"><b>A</b>F</span>
+          <span class="logo-lg"><b>Sistema de</b> Gestion <b>AF</b></span>
         </a>
         <nav class="navbar navbar-static-top" role="navigation">
           <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">

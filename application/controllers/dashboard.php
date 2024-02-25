@@ -13,9 +13,18 @@ class Dashboard extends BaseController
         parent::__construct();
         $this->isLoggedIn();
         // $this->menuPermisos();
+            
+        // var_dump($this->role);
+        // var_dump($this->vendorId);
+        // var_dump($this->name);
+        // var_dump($this->roleText);
+        // var_dump($this->puesto);
+        // var_dump($this->puesto_descrip);
+        // var_dump($this->global);
+    
         // $this->load->model('dashboard_model');
-        $this->load->model('user_model');
-        // $this->load->model('municipios_model');
+        // $this->load->model('user_model');s
+        // $this->load->model('municipios   _model');
         // $this->load->model('ordenes_model');
         // $this->load->model('protocolos_model');
         // $this->load->model('ordenesb_model');

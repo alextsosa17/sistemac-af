@@ -415,6 +415,8 @@ class CI_Session {
 	 */
 	function sess_destroy()
 	{
+
+
 		// Kill the session DB row
 		if ($this->sess_use_database === TRUE && isset($this->userdata['session_id']))
 		{

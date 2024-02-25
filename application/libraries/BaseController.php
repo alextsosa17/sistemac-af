@@ -63,21 +63,27 @@ class BaseController extends CI_Controller {
 
 	public function menuPermisos(){ //Muestra y da acceso a los menus.
 			$this->isLoggedIn();
+
+			
+			
 			$this->load->model('menu_model');
+		
 			switch ($this->uri->segment(1)) {
-				case 'mantenimiento':
-				case 'reparaciones':
-				case 'instalaciones':
-				case 'ordenes':
-				case 'ordenesb':
-				case 'calibListing':
-				case 'historial':
-				case 'equipos':
+				// case 'mantenimiento':
+				// case 'reparaciones':
+				// case 'instalaciones':
+				// case 'ordenes':
+				// case 'ordenesb':
+				// case 'calibListing':
+				// case 'historial':
+				// case 'equipos':
 				case 'equipamiento':
 					$link = $this->uri->segment (1)."/".$this->uri->segment (2);
 					break;
 
 				case 'userListing':
+					var_dump("aca pipi");
+					die;
 					$link = $this->uri->segment (1)."/".$this->uri->segment (2)."/".$this->uri->segment (3);
 					break;
 				default:
@@ -291,9 +297,8 @@ class BaseController extends CI_Controller {
 	/**
 	 * This function is used to logged out user from system
 	 */
-	function logout() {
+	public function logout() {
 		$this->session->sess_destroy ();
-
 		redirect ( 'login' );
 	}
 

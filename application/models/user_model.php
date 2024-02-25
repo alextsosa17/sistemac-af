@@ -6,7 +6,7 @@ class User_model extends CI_Model
     function userListingCount($searchText = '', $filtro, $criterio)
     {
         $this->db->select('BaseTbl.userId');
-        $this->db->from('tbl_users as BaseTbl');
+        $this->db->from('usuarios as BaseTbl');
         $this->db->join('tbl_roles as Role', 'Role.roleId = BaseTbl.roleId','left');
         $this->db->join('empresas as E', 'E.sedeID = BaseTbl.id_sede','left');
         
@@ -67,7 +67,7 @@ class User_model extends CI_Model
     function userListing($searchText = '', $page, $segment, $filtro, $criterio)
     {
         $this->db->select('BaseTbl.userId, BaseTbl.email, BaseTbl.mobile, Role.role, BaseTbl.nombre, BaseTbl.apellido, BaseTbl.name, BaseTbl.id_sede, BaseTbl.interno, E.sede as sede_descrip, E.telefono');
-        $this->db->from('tbl_users as BaseTbl');
+        $this->db->from('usuarios as BaseTbl');
         $this->db->join('tbl_roles as Role', 'Role.roleId = BaseTbl.roleId','left');
         $this->db->join('empresas as E', 'E.sedeID = BaseTbl.id_sede','left');
         if(!empty($searchText)) {
@@ -151,7 +151,7 @@ class User_model extends CI_Model
     function getJerarquiaByUser($userId)
     {
     	$this->db->select('p.jerarquia');
-    	$this->db->from('tbl_users as u');
+    	$this->db->from('usuarios as u');
     	$this->db->join('tbl_puestos as p', 'p.id = u.puesto');
     	$this->db->where('u.userId', $userId);
 
@@ -164,7 +164,7 @@ class User_model extends CI_Model
     function addNewUser($userInfo)
     {
         $this->db->trans_start();
-        $this->db->insert('tbl_users', $userInfo);
+        $this->db->insert('usuarios', $userInfo);
 
         $insert_id = $this->db->insert_id();
         $this->db->trans_complete();
@@ -175,7 +175,7 @@ class User_model extends CI_Model
     function getUserInfo($userId,$filtro = FALSE)
     {
         $this->db->select('BaseTbl.userId, BaseTbl.name, BaseTbl.nombre, BaseTbl.apellido, BaseTbl.email, BaseTbl.mobile, BaseTbl.roleId, BaseTbl.puesto, BaseTbl.asociado, BaseTbl.imei, BaseTbl.modelomov, BaseTbl.tipo as u_tipo, BaseTbl.id_sede, BaseTbl.interno, BaseTbl.grupo');
-        $this->db->from('tbl_users as BaseTbl');
+        $this->db->from('usuarios as BaseTbl');
         if ($filtro) {
             $this->db->select('role, tbl_puestos.descrip as u_puesto, equipos_propietarios.descrip as u_propiet,E.telefono, E.sede as sede_descrip, E.direccion');
             $this->db->join('tbl_roles','BaseTbl.roleId = tbl_roles.roleId');
@@ -224,7 +224,7 @@ class User_model extends CI_Model
     {
         $this->db->select('grupo');
         $this->db->where('userId', $userId);
-        $result = $this->db->get('tbl_users')->row();
+        $result = $this->db->get('usuarios')->row();
         $data = $result->grupo;
 
         return $data;
@@ -247,7 +247,7 @@ class User_model extends CI_Model
     function editUser($userInfo, $userId)
     {
         $this->db->where('userId', $userId);
-        $this->db->update('tbl_users', $userInfo);
+        $this->db->update('usuarios', $userInfo);
 
         return TRUE;
     }
@@ -267,7 +267,7 @@ class User_model extends CI_Model
         $sql = "SELECT equipos_equipos
         FROM permisos WHERE =".$userId;
         $this->db->select('equipos_equipos');
-        $this->db->from('tbl_users');
+        $this->db->from('usuarios');
         $query = $this->db->get($sql);
 
         return $query;
@@ -277,7 +277,7 @@ class User_model extends CI_Model
     function deleteUser($userId, $userInfo)
     {
         $this->db->where('userId', $userId);
-        $this->db->update('tbl_users', $userInfo);
+        $this->db->update('usuarios', $userInfo);
 
         return $this->db->affected_rows();
     }
@@ -289,7 +289,7 @@ class User_model extends CI_Model
         $this->db->where('userId', $userId);
         $this->db->where('password', $oldPassword);
         $this->db->where('isDeleted', 0);
-        $query = $this->db->get('tbl_users');
+        $query = $this->db->get('usuarios');
 
         return $query->result();
     }
@@ -299,7 +299,7 @@ class User_model extends CI_Model
     {
         $this->db->where('userId', $userId);
         $this->db->where('isDeleted', 0);
-        $this->db->update('tbl_users', $userInfo);
+        $this->db->update('usuarios', $userInfo);
 
         return $this->db->affected_rows();
     }
@@ -307,7 +307,7 @@ class User_model extends CI_Model
 
 	public function getUsuarios(){
 		$this->db->select('name, email, mobile');
-		$this->db->from('tbl_users');
+		$this->db->from('usuarios');
         $this->db->order_by('name', 'asc');
 		$query = $this->db->get();
 
@@ -316,7 +316,7 @@ class User_model extends CI_Model
 
     public function getEmpleados($roleId = 0){ //0.- Todos
         $this->db->select('userId, name, email, mobile, imei');
-        $this->db->from('tbl_users');
+        $this->db->from('usuarios');
 
         if($roleId != 0){
             $this->db->where('roleId =', $roleId);
@@ -331,7 +331,7 @@ class User_model extends CI_Model
 
     public function getResponsables(){ // 2.Gerente 4.Encargado 5.Director 7.Supervisor 8.Presidente
         $this->db->select('userId, name, email, mobile, imei');
-        $this->db->from('tbl_users');
+        $this->db->from('usuarios');
 
         $puestos = array(2,4,5,7,8); // 2.Gerente 4.Encargado 5.Director 7.Supervisor 8.Presidente
         $this->db->where_in('puesto', $puestos);
@@ -345,7 +345,7 @@ class User_model extends CI_Model
 
     function getUsuariosJoinPuestos($notid = FALSE){
     	$this->db->select('u.userId as id, u.name as nombre, p.descrip as puesto');
-    	$this->db->from('tbl_users as u');
+    	$this->db->from('usuarios as u');
     	$this->db->join('tbl_puestos as p', 'p.id = u.puesto');
     	$this->db->where('u.tipo', 1);
     	$this->db->where('isDeleted', 0);
@@ -365,7 +365,7 @@ class User_model extends CI_Model
     	$this->db->select('u.userId, u.name, r.role, p.jerarquia');
     	$this->db->distinct();
     	$this->db->from('mensajes as m');
-    	$this->db->join('tbl_users as u', 'm.imei = u.imei');
+    	$this->db->join('usuarios as u', 'm.imei = u.imei');
     	$this->db->join('tbl_puestos as p', 'p.id = u.puesto');
       $this->db->join('tbl_roles as r', 'r.roleId = u.roleId');
 
@@ -380,7 +380,7 @@ class User_model extends CI_Model
 
     public function getIMEI($idTecnico){
         $this->db->select('imei');
-        $this->db->from('tbl_users');
+        $this->db->from('usuarios');
         $this->db->where('userId =', $idTecnico);
 
         $query = $this->db->get();
@@ -392,7 +392,7 @@ class User_model extends CI_Model
     function getEmpleadosPorSector($rangos, $puesto = NULL)
     {
         $this->db->select('*');
-        $this->db->from('tbl_users as u');
+        $this->db->from('usuarios as u');
         $this->db->join('tbl_roles as r', 'r.roleId = u.roleId');
         $i = 1;
         foreach ($rangos as $rango) {
@@ -425,7 +425,7 @@ class User_model extends CI_Model
     function userListingMemoria($searchText = '', $page, $segment, $filtro)
     {
         $this->db->select('BaseTbl.userId, BaseTbl.mobile, Role.role, BaseTbl.name, BaseTbl.imei, BaseTbl.liberado');
-        $this->db->from('tbl_users as BaseTbl');
+        $this->db->from('usuarios as BaseTbl');
         $this->db->join('tbl_roles as Role', 'Role.roleId = BaseTbl.roleId','left');
         $this->db->where('BaseTbl.isDeleted', 0);
         $this->db->where('BaseTbl.roleId`', 603);
@@ -570,7 +570,7 @@ class User_model extends CI_Model
     function usuarios_rol($roles = NULL)
     {
         $this->db->select('U.userId, U.name');
-        $this->db->from('tbl_users as U');
+        $this->db->from('usuarios as U');
 
         if (!is_null($roles)) {
             if (is_array($roles)) {

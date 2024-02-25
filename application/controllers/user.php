@@ -8,11 +8,11 @@ class User extends BaseController
     {
         parent::__construct();
         $this->isLoggedIn();
-        $this->menuPermisos();
+        // $this->menuPermisos(); //esto esglobal 
         $this->load->model('user_model');
         // $this->load->model('equipos_model');
         // $this->load->model('mensajes_model');
-		    // $this->load->library('export_excel');
+		    // $this->load->library('export_excel'); //esta fijate porque la vas a usar
         $this->load->library('pagination');
         $this->load->library('form_validation');
     }
@@ -24,7 +24,7 @@ class User extends BaseController
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
-        $this->load->view('dashboard');
+        // $this->load->view('dashboard');
         $this->load->view('includes/footer');
     }
 
