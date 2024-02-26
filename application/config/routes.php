@@ -50,9 +50,9 @@ $route['dashboard'] = 'dashboard';
 $route['logout'] = 'user/logout';
 $route['userListing'] = 'user/userListing';
 $route['userListing/(:num)'] = "user/userListing/$1";
+$route['userListing/(:num)/(:num)'] = "user/userListing/$1/$2"; 
 $route['verPersonal/(:num)'] = "user/verPersonal/$1";
 $route['limpiezaCelulares'] = "user/limpiezaCelulares";
-$route['userListing/(:num)/(:num)'] = "user/userListing/$1/$2";
 
 $route['agregar_usuario'] = "user/agregar_usuario";
 $route['agregar_empleado'] = "user/agregar_empleado";

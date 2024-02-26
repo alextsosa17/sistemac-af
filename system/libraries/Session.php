@@ -411,7 +411,7 @@ class CI_Session {
 	 * Destroy the current session
 	 *
 	 * @access	public
-	 * @return	void
+	 * @return	void 
 	 */
 	function sess_destroy()
 	{

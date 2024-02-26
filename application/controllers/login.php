@@ -28,7 +28,7 @@ class Login extends CI_Controller
     }
 
     public function loginMe()
-    {
+    {   
         $this->load->library('form_validation');
         
         $this->form_validation->set_rules('email', 'Email', 'required|valid_email|max_length[128]|xss_clean|trim');
@@ -40,23 +40,20 @@ class Login extends CI_Controller
             $email          = $this->input->post('email');
             $password       = $this->input->post('password');
             $ecryptPassword = md5($password);
-
+            
             $result = $this->login_model->loginMe($email, $ecryptPassword);
-            echo "aca";
+            
             if(count($result) > 0){
                 foreach ($result as $res) {
-                    $sessionArray = array('userId'=>$res->userId,
-                                            'role'=>$res->roleId,
+                    $sessionArray = array('userId'=>$res->id_usuario,
+                                            'role'=>$res->id_role,
                                             'roleText'=>$res->role,
-                                            'name'=>$res->name,
-                                            'puesto'=>$res->puesto,
-                                            'puesto_descrip'=>$res->puesto_descrip,
+                                            'name'=>$res->name ,
                                             'nombre'=>$res->nombre,
                                             'apellido'=>$res->apellido,
-
                                             'isLoggedIn' => TRUE
                                     );
-                    
+              
                     $this->session->set_userdata($sessionArray);
                     redirect('dashboard');
                     // redirect('bienvenido');

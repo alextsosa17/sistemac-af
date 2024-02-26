@@ -5,9 +5,9 @@ class User_model extends CI_Model
 
     function userListingCount($searchText = '', $filtro, $criterio)
     {
-        $this->db->select('BaseTbl.userId');
+        $this->db->select('BaseTbl.id_usuario');
         $this->db->from('usuarios as BaseTbl');
-        $this->db->join('tbl_roles as Role', 'Role.roleId = BaseTbl.roleId','left');
+        $this->db->join('roles as Role', 'Role.id_role = BaseTbl.id_role','left');
         $this->db->join('empresas as E', 'E.sedeID = BaseTbl.id_sede','left');
         
         if(!empty($searchText)) {

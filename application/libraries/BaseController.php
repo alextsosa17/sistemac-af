@@ -22,6 +22,8 @@ class BaseController extends CI_Controller {
 	 *        	Data to output to the user
 	 *        	running the script; otherwise, exit
 	 */
+
+
 	public function response($data = NULL) {
 		$this->output->set_status_header ( 200 )->set_content_type ( 'application/json', 'utf-8' )->set_output ( json_encode ( $data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES ) )->_display ();
 		exit ();
@@ -34,7 +36,7 @@ class BaseController extends CI_Controller {
 	 */
 	function isLoggedIn() {
 		$isLoggedIn = $this->session->userdata ( 'isLoggedIn' );
-
+		
 		if (! isset ( $isLoggedIn ) || $isLoggedIn != TRUE) {
 			redirect ( 'login' );
 		} else {
@@ -42,8 +44,6 @@ class BaseController extends CI_Controller {
 			$this->vendorId = $this->session->userdata ( 'userId' );
 			$this->name = $this->session->userdata ( 'name' );
 			$this->roleText = $this->session->userdata ( 'roleText' );
-			$this->puesto = $this->session->userdata ( 'puesto' );
-			$this->puesto_descrip = $this->session->userdata ( 'puesto_descrip' );
 			$this->nombre = $this->session->userdata ( 'nombre' );
 			$this->apellido = $this->session->userdata ( 'apellido' );
 
@@ -82,8 +82,7 @@ class BaseController extends CI_Controller {
 					break;
 
 				case 'userListing':
-					var_dump("aca pipi");
-					die;
+		
 					$link = $this->uri->segment (1)."/".$this->uri->segment (2)."/".$this->uri->segment (3);
 					break;
 				default:

@@ -10,19 +10,16 @@ class Login_model extends CI_Model
      */
     function loginMe($email, $encryptedPassword)
     {
-
-        $this->db->select('usuarios.id_usuario, usuarios.nombre, Usuario_Rol.id_rol');
-        // Usuario_Rol.id_rol, Roles.nombre_rol as role');
+        $this->db->select('usuarios.id_usuario, usuarios.nombre, usuarios.id_role, usuarios.name ,roles.nombre_rol as role');
         $this->db->from('usuarios');
-        $this->db->join('Usuario_Rol', 'usuarios.id_usuario = usuario_rol.id_usuario');
-        $this->db->join('Roles', 'Usuario_Rol.id_rol = Roles.id_rol');
+        $this->db->join('roles', 'usuarios.id_role = roles.id_rol');
         $this->db->where('usuarios.correo', $email);
         $this->db->where('usuarios.contraseña', $encryptedPassword);
         $query = $this->db->get();
         
-
         return $query->result();
     }
+    
 
 
 }

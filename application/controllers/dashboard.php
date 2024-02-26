@@ -12,16 +12,8 @@ class Dashboard extends BaseController
     {
         parent::__construct();
         $this->isLoggedIn();
-        // $this->menuPermisos();
+        // $this->menuPermisos();   
             
-        // var_dump($this->role);
-        // var_dump($this->vendorId);
-        // var_dump($this->name);
-        // var_dump($this->roleText);
-        // var_dump($this->puesto);
-        // var_dump($this->puesto_descrip);
-        // var_dump($this->global);
-    
         // $this->load->model('dashboard_model');
         // $this->load->model('user_model');s
         // $this->load->model('municipios   _model');
@@ -41,7 +33,6 @@ class Dashboard extends BaseController
         $this->global['pageTitle'] = 'Sistema de Gestion';
 
         $role = $this->role;
-
         $userId = $this->session->userdata('userId');
         /*Equipos*/ //aca podria ir los datos de los productos 
             // $this->data['count_equipos'] = $this->dashboard_model->get_count_record($userId, $role, $grupoGestor); //Total de Equipos.
