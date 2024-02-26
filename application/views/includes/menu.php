@@ -22,7 +22,7 @@ AVISO
             </form>
 
             <?php foreach ($categorias as $categoria): ?>
-              <li class="header"><?= $categoria->nombre?></li> <!-- Imprimo las categorias-->
+              <li class="header"><?= $categoria->nombre_menu?></li> <!-- Imprimo las categorias-->
                 <?php foreach ($menus as $menu): ?>
                   <?php if ($categoria->id == $menu->padre ): ?>
                     <li class="treeview">

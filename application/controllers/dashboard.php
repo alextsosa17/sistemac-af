@@ -12,7 +12,7 @@ class Dashboard extends BaseController
     {
         parent::__construct();
         $this->isLoggedIn();
-        // $this->menuPermisos();   
+        $this->menuPermisos();   
             
         // $this->load->model('dashboard_model');
         // $this->load->model('user_model');s
@@ -157,7 +157,6 @@ class Dashboard extends BaseController
     //         $this->data['total_protocolos'] = $this->protocolos_model->protocolosCount('', "Pendiente", null, $userId, $role);
 
     //         $this->data['bajadas'] = $this->ordenesb_model->ordenesList('', 6, 0, "SP", null, $userId, $role);
-
     //         $this->data['remitos_pendientes'] = $this->socios_model->contarRemitos($userId, $role, 0);
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);

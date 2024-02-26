@@ -12603,3 +12603,3418 @@ DEBUG - 2024-02-26 10:36:50 --> UTF-8 Support Enabled
 DEBUG - 2024-02-26 10:36:50 --> URI Class Initialized
 DEBUG - 2024-02-26 10:36:50 --> Router Class Initialized
 ERROR - 2024-02-26 10:36:50 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 11:02:20 --> Config Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Hooks Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 11:02:20 --> URI Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Router Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Output Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Security Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Input Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 11:02:20 --> Language Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Loader Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 11:02:20 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 11:02:20 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 11:02:20 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Session Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 11:02:20 --> Session routines successfully run
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 11:02:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 11:02:20 --> Controller Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Model Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Model Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Pagination Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 11:02:20 --> Form Validation Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 11:02:20 --> Severity: Notice  --> Undefined property: User::$menu C:\xampp\htdocs\af\application\controllers\user.php 614
+ERROR - 2024-02-26 11:02:20 --> Severity: Notice  --> Undefined variable: categorias C:\xampp\htdocs\af\application\views\includes\menu.php 24
+ERROR - 2024-02-26 11:02:20 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\af\application\views\includes\menu.php 24
+DEBUG - 2024-02-26 11:02:20 --> File loaded: application/views/includes/menu.php
+DEBUG - 2024-02-26 11:02:20 --> File loaded: application/views/changePassword.php
+DEBUG - 2024-02-26 11:02:20 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 11:02:20 --> Final output sent to browser
+DEBUG - 2024-02-26 11:02:20 --> Total execution time: 0.0623
+DEBUG - 2024-02-26 11:02:20 --> Config Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Hooks Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 11:02:20 --> URI Class Initialized
+DEBUG - 2024-02-26 11:02:20 --> Router Class Initialized
+ERROR - 2024-02-26 11:02:20 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 11:02:24 --> Config Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Hooks Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 11:02:24 --> URI Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Router Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> No URI present. Default controller set.
+DEBUG - 2024-02-26 11:02:24 --> Output Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Security Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Input Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 11:02:24 --> Language Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Loader Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 11:02:24 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Session Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 11:02:24 --> Session routines successfully run
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 11:02:24 --> Controller Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Model Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Model Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Config Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Hooks Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 11:02:24 --> URI Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Router Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Output Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Security Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Input Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 11:02:24 --> Language Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Loader Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 11:02:24 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Session Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 11:02:24 --> Session routines successfully run
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 11:02:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 11:02:24 --> Controller Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined property: Dashboard::$menu C:\xampp\htdocs\af\application\controllers\dashboard.php 163
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: categorias C:\xampp\htdocs\af\application\views\includes\menu.php 24
+ERROR - 2024-02-26 11:02:24 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\af\application\views\includes\menu.php 24
+DEBUG - 2024-02-26 11:02:24 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 11:02:24 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 11:02:24 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 11:02:24 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 11:02:24 --> Final output sent to browser
+DEBUG - 2024-02-26 11:02:24 --> Total execution time: 0.0840
+DEBUG - 2024-02-26 11:02:24 --> Config Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Hooks Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 11:02:24 --> URI Class Initialized
+DEBUG - 2024-02-26 11:02:24 --> Router Class Initialized
+ERROR - 2024-02-26 11:02:24 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 17:59:00 --> Config Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Hooks Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 17:59:00 --> URI Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Router Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Output Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Security Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Input Class Initialized
+DEBUG - 2024-02-26 17:59:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 17:59:00 --> Language Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Loader Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 17:59:01 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Session Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 17:59:01 --> A session cookie was not found.
+DEBUG - 2024-02-26 17:59:01 --> Session routines successfully run
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 17:59:01 --> Controller Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Config Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Hooks Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 17:59:01 --> URI Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Router Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Output Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Security Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Input Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 17:59:01 --> Language Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Loader Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 17:59:01 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Session Class Initialized
+DEBUG - 2024-02-26 17:59:01 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 17:59:01 --> Session routines successfully run
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 17:59:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 17:59:01 --> Controller Class Initialized
+DEBUG - 2024-02-26 17:59:02 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:02 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:02 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 17:59:02 --> File loaded: application/views/login.php
+DEBUG - 2024-02-26 17:59:02 --> Final output sent to browser
+DEBUG - 2024-02-26 17:59:02 --> Total execution time: 0.1148
+DEBUG - 2024-02-26 17:59:10 --> Config Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Hooks Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 17:59:10 --> URI Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Router Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Output Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Security Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Input Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 17:59:10 --> Language Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Loader Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 17:59:10 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Session Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 17:59:10 --> Session routines successfully run
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 17:59:10 --> Controller Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 17:59:10 --> Form Validation Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2024-02-26 17:59:10 --> XSS Filtering completed
+DEBUG - 2024-02-26 17:59:10 --> Unable to find validation rule: 
+DEBUG - 2024-02-26 17:59:10 --> Config Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Hooks Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 17:59:10 --> URI Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Router Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Output Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Security Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Input Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 17:59:10 --> Language Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Loader Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 17:59:10 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Session Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 17:59:10 --> Session routines successfully run
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 17:59:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 17:59:10 --> Controller Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Model Class Initialized
+DEBUG - 2024-02-26 17:59:10 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 17:59:10 --> File loaded: application/views/login.php
+DEBUG - 2024-02-26 17:59:10 --> Final output sent to browser
+DEBUG - 2024-02-26 17:59:10 --> Total execution time: 0.0734
+DEBUG - 2024-02-26 18:00:19 --> Config Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:00:19 --> URI Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Router Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Output Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Security Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Input Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:00:19 --> Language Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:00:19 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Session Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:00:19 --> Session routines successfully run
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:00:19 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Model Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Model Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 18:00:19 --> Form Validation Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2024-02-26 18:00:19 --> XSS Filtering completed
+DEBUG - 2024-02-26 18:00:19 --> Unable to find validation rule: 
+ERROR - 2024-02-26 18:00:19 --> Severity: Notice  --> Undefined property: stdClass::$apellido C:\xampp\htdocs\af\application\controllers\login.php 53
+DEBUG - 2024-02-26 18:00:19 --> Config Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:00:19 --> URI Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Router Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Output Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Security Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Input Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:00:19 --> Language Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:00:19 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Session Class Initialized
+DEBUG - 2024-02-26 18:00:19 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:00:19 --> Session routines successfully run
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:00:19 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:00:20 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:00:20 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:00:20 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined property: Dashboard::$menu C:\xampp\htdocs\af\application\controllers\dashboard.php 163
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: categorias C:\xampp\htdocs\af\application\views\includes\menu.php 24
+ERROR - 2024-02-26 18:00:20 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\xampp\htdocs\af\application\views\includes\menu.php 24
+DEBUG - 2024-02-26 18:00:20 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:00:20 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:00:20 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:00:20 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:00:20 --> Final output sent to browser
+DEBUG - 2024-02-26 18:00:20 --> Total execution time: 1.0330
+DEBUG - 2024-02-26 18:00:20 --> Config Class Initialized
+DEBUG - 2024-02-26 18:00:20 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:00:20 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:00:20 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:00:20 --> URI Class Initialized
+DEBUG - 2024-02-26 18:00:20 --> Router Class Initialized
+ERROR - 2024-02-26 18:00:20 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:00:53 --> Config Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:00:53 --> URI Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Router Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Output Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Security Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Input Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:00:53 --> Language Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:00:53 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:00:53 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:00:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Session Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:00:53 --> Session routines successfully run
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:00:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:00:53 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Model Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> Model Class Initialized
+DEBUG - 2024-02-26 18:00:53 --> DB Transaction Failure
+ERROR - 2024-02-26 18:00:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:00:53 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:01:29 --> Config Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:01:29 --> URI Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Router Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Output Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Security Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Input Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:01:29 --> Language Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:01:29 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:01:29 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:01:29 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Session Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:01:29 --> Session routines successfully run
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:01:29 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:01:29 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Model Class Initialized
+DEBUG - 2024-02-26 18:01:29 --> Model Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Config Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:01:53 --> URI Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Router Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Output Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Security Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Input Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:01:53 --> Language Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:01:53 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:01:53 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:01:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Session Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:01:53 --> Session routines successfully run
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:01:53 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:01:53 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Model Class Initialized
+DEBUG - 2024-02-26 18:01:53 --> Model Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Config Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:02:01 --> URI Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Router Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Output Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Security Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Input Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:02:01 --> Language Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:02:01 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:02:01 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:02:01 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Session Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:02:01 --> Session routines successfully run
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:02:01 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:02:01 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Model Class Initialized
+DEBUG - 2024-02-26 18:02:01 --> Model Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Config Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:17:06 --> URI Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Router Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Output Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Security Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Input Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:17:06 --> Language Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:17:06 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:17:06 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:17:06 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Session Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:17:06 --> Session routines successfully run
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:17:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:17:06 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Model Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> Model Class Initialized
+DEBUG - 2024-02-26 18:17:06 --> DB Transaction Failure
+ERROR - 2024-02-26 18:17:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:17:06 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:42 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:42 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:42 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:42 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:42 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:42 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:42 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:42 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:42 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:42 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:42 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:42 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:42 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:42 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:42 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:42 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:43 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:43 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:43 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:43 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:43 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:43 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:44 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:44 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:44 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:44 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:44 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:44 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:44 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:44 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:44 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:44 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:44 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:44 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:44 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:44 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:44 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:44 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:44 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:44 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:44 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:44 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:44 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:44 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:18:44 --> Config Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:18:44 --> URI Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Router Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Output Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Security Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Input Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:18:44 --> Language Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:18:44 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Session Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:18:44 --> Session routines successfully run
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:18:44 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:18:44 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> Model Class Initialized
+DEBUG - 2024-02-26 18:18:44 --> DB Transaction Failure
+ERROR - 2024-02-26 18:18:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id_menu=` M.id_menu
+WHERE `M`.`tipo` =  1
+AND `MP`.`id_rol` =  '1'
+ORDER BY `...' at line 3
+DEBUG - 2024-02-26 18:18:44 --> Language file loaded: language/spanish/db_lang.php
+DEBUG - 2024-02-26 18:20:37 --> Config Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:20:37 --> URI Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Router Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Output Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Security Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Input Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:20:37 --> Language Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:20:37 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:20:37 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:20:37 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Session Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:20:37 --> Session routines successfully run
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:20:37 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:20:37 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Model Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Model Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'nombre' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'nombre' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'nombre' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Trying to get property 'id' of non-object C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:20:37 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:20:37 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:20:37 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:20:37 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:20:37 --> Final output sent to browser
+DEBUG - 2024-02-26 18:20:37 --> Total execution time: 0.0980
+DEBUG - 2024-02-26 18:20:37 --> Config Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:20:37 --> URI Class Initialized
+DEBUG - 2024-02-26 18:20:37 --> Router Class Initialized
+ERROR - 2024-02-26 18:20:37 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:23:03 --> Config Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:23:03 --> URI Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Router Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Output Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Security Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Input Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:23:03 --> Language Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:23:03 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:23:03 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:23:03 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Session Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:23:03 --> Session routines successfully run
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:23:03 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:23:03 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Model Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> Model Class Initialized
+DEBUG - 2024-02-26 18:23:03 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:23:03 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:23:03 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:23:04 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:23:04 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:23:04 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:23:04 --> Final output sent to browser
+DEBUG - 2024-02-26 18:23:04 --> Total execution time: 0.0880
+DEBUG - 2024-02-26 18:23:04 --> Config Class Initialized
+DEBUG - 2024-02-26 18:23:04 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:23:04 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:23:04 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:23:04 --> URI Class Initialized
+DEBUG - 2024-02-26 18:23:04 --> Router Class Initialized
+ERROR - 2024-02-26 18:23:04 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:23:04 --> Config Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:23:05 --> URI Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Router Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Output Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Security Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Input Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:23:05 --> Language Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:23:05 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:23:05 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:23:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Session Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:23:05 --> Session routines successfully run
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:23:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:23:05 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Model Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Model Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:23:05 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:23:05 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:23:05 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:23:05 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:23:05 --> Final output sent to browser
+DEBUG - 2024-02-26 18:23:05 --> Total execution time: 0.0889
+DEBUG - 2024-02-26 18:23:05 --> Config Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:23:05 --> URI Class Initialized
+DEBUG - 2024-02-26 18:23:05 --> Router Class Initialized
+ERROR - 2024-02-26 18:23:05 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:27:49 --> Config Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:27:49 --> URI Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Router Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Output Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Security Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Input Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:27:49 --> Language Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:27:49 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:27:49 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:27:49 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Session Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:27:49 --> Session routines successfully run
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:27:49 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:27:49 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Model Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Model Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:27:49 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:27:49 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:27:49 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:27:49 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:27:49 --> Final output sent to browser
+DEBUG - 2024-02-26 18:27:49 --> Total execution time: 0.0856
+DEBUG - 2024-02-26 18:27:49 --> Config Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:27:49 --> URI Class Initialized
+DEBUG - 2024-02-26 18:27:49 --> Router Class Initialized
+ERROR - 2024-02-26 18:27:49 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:28:15 --> Config Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:28:15 --> URI Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Router Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Output Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Security Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Input Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:28:15 --> Language Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:28:15 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:28:15 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:28:15 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Session Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:28:15 --> Session routines successfully run
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:28:15 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:28:15 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Model Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Model Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:28:15 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:28:15 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:28:15 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:28:15 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:28:15 --> Final output sent to browser
+DEBUG - 2024-02-26 18:28:15 --> Total execution time: 0.0870
+DEBUG - 2024-02-26 18:28:15 --> Config Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:28:15 --> URI Class Initialized
+DEBUG - 2024-02-26 18:28:15 --> Router Class Initialized
+ERROR - 2024-02-26 18:28:15 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:28:16 --> Config Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:28:16 --> URI Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Router Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Output Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Security Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Input Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:28:16 --> Language Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:28:16 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:28:16 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:28:16 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Session Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:28:16 --> Session routines successfully run
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:28:16 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:28:16 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Model Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Model Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$nombre C:\xampp\htdocs\af\application\views\includes\menu.php 25
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:28:16 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 164
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:28:16 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:28:16 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:28:16 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:28:16 --> Final output sent to browser
+DEBUG - 2024-02-26 18:28:16 --> Total execution time: 0.0886
+DEBUG - 2024-02-26 18:28:16 --> Config Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:28:16 --> URI Class Initialized
+DEBUG - 2024-02-26 18:28:16 --> Router Class Initialized
+ERROR - 2024-02-26 18:28:16 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:29:06 --> Config Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:29:06 --> URI Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Router Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Output Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Security Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Input Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:29:06 --> Language Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:29:06 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:29:06 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:29:06 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Session Class Initialized
+DEBUG - 2024-02-26 18:29:06 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:29:06 --> Session routines successfully run
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:29:06 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:29:07 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:29:07 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:29:07 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:29:07 --> Model Class Initialized
+DEBUG - 2024-02-26 18:29:07 --> Model Class Initialized
+ERROR - 2024-02-26 18:29:07 --> Severity: Notice  --> Undefined variable: query C:\xampp\htdocs\af\application\models\menu_model.php 13
+DEBUG - 2024-02-26 18:29:13 --> Config Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:29:13 --> URI Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Router Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Output Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Security Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Input Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:29:13 --> Language Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:29:13 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:29:13 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:29:13 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Session Class Initialized
+DEBUG - 2024-02-26 18:29:13 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:29:13 --> Session routines successfully run
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:29:14 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:29:14 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:29:14 --> Model Class Initialized
+DEBUG - 2024-02-26 18:29:14 --> Model Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Config Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:29:28 --> URI Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Router Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Output Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Security Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Input Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:29:28 --> Language Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:29:28 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:29:28 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:29:28 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Session Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:29:28 --> Session routines successfully run
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:29:28 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:29:28 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Model Class Initialized
+DEBUG - 2024-02-26 18:29:28 --> Model Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Config Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:30:05 --> URI Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Router Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Output Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Security Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Input Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:30:05 --> Language Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:30:05 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:30:05 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:30:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Session Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:30:05 --> Session routines successfully run
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:30:05 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:30:05 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Model Class Initialized
+DEBUG - 2024-02-26 18:30:05 --> Model Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Config Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:30:27 --> URI Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Router Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Output Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Security Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Input Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:30:27 --> Language Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:30:27 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:30:27 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:30:27 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Session Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:30:27 --> Session routines successfully run
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:30:27 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:30:27 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Model Class Initialized
+DEBUG - 2024-02-26 18:30:27 --> Model Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Config Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:31:24 --> URI Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Router Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Output Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Security Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Input Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:31:24 --> Language Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:31:24 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:31:24 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:31:24 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Session Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:31:24 --> Session routines successfully run
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:31:24 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:31:24 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Model Class Initialized
+DEBUG - 2024-02-26 18:31:24 --> Model Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Config Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:31:43 --> URI Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Router Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Output Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Security Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Input Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:31:43 --> Language Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:31:43 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:31:43 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:31:43 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Session Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:31:43 --> Session routines successfully run
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:31:43 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:31:43 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:31:43 --> Model Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Config Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:32:13 --> URI Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Router Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Output Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Security Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Input Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:32:13 --> Language Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:32:13 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:32:13 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:32:13 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Session Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:32:13 --> Session routines successfully run
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:32:13 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:32:13 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Model Class Initialized
+DEBUG - 2024-02-26 18:32:13 --> Model Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Config Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:32:39 --> URI Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Router Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Output Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Security Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Input Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:32:39 --> Language Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:32:39 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:32:39 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:32:39 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Session Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:32:39 --> Session routines successfully run
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:32:39 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:32:39 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Model Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Model Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:32:39 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 163
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:32:39 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:32:39 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:32:39 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:32:39 --> Final output sent to browser
+DEBUG - 2024-02-26 18:32:39 --> Total execution time: 0.0875
+DEBUG - 2024-02-26 18:32:39 --> Config Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:32:39 --> URI Class Initialized
+DEBUG - 2024-02-26 18:32:39 --> Router Class Initialized
+ERROR - 2024-02-26 18:32:39 --> 404 Page Not Found --> print.css
+DEBUG - 2024-02-26 18:40:09 --> Config Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:40:09 --> URI Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Router Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Output Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Security Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Input Class Initialized
+DEBUG - 2024-02-26 18:40:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:40:10 --> Language Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:40:10 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Session Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:40:10 --> Session routines successfully run
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:40:10 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Pagination Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 18:40:10 --> Form Validation Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Config Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:40:10 --> URI Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Router Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Output Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Security Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Input Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:40:10 --> Language Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:40:10 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Session Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:40:10 --> A session cookie was not found.
+DEBUG - 2024-02-26 18:40:10 --> Session routines successfully run
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:40:10 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:40:10 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:10 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 18:40:10 --> File loaded: application/views/login.php
+DEBUG - 2024-02-26 18:40:10 --> Final output sent to browser
+DEBUG - 2024-02-26 18:40:10 --> Total execution time: 0.0601
+DEBUG - 2024-02-26 18:40:18 --> Config Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:40:18 --> URI Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Router Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Output Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Security Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Input Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:40:18 --> Language Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:40:18 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Session Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:40:18 --> Session routines successfully run
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:40:18 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: form_helper
+DEBUG - 2024-02-26 18:40:18 --> Form Validation Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2024-02-26 18:40:18 --> XSS Filtering completed
+DEBUG - 2024-02-26 18:40:18 --> Unable to find validation rule: 
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$apellido C:\xampp\htdocs\af\application\controllers\login.php 53
+DEBUG - 2024-02-26 18:40:18 --> Config Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:40:18 --> URI Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Router Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Output Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Security Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Input Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2024-02-26 18:40:18 --> Language Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Loader Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: url_helper
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: file_helper
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: aircrm_helper
+DEBUG - 2024-02-26 18:40:18 --> Database Driver Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Session Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Helper loaded: string_helper
+DEBUG - 2024-02-26 18:40:18 --> Session routines successfully run
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 526
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 527
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 538
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 539
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 541
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Shared\String.php 542
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2551
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2672
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2676
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2764
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2768
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 2780
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3034
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3166
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3168
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3169
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3457
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3460
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3461
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3891
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3936
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3942
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 3998
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Calculation.php 4001
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+ERROR - 2024-02-26 18:40:18 --> Severity: 8192  --> Array and string offset access syntax with curly braces is deprecated C:\xampp\htdocs\af\application\third_party\PHPExcel\Worksheet\AutoFilter.php 720
+DEBUG - 2024-02-26 18:40:18 --> Controller Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Model Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> File loaded: application/views/includes/header.php
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: stdClass::$id C:\xampp\htdocs\af\application\views\includes\menu.php 27
+DEBUG - 2024-02-26 18:40:18 --> File loaded: application/views/includes/menu.php
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined property: Dashboard::$data C:\xampp\htdocs\af\application\controllers\dashboard.php 163
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 37
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_equipos C:\xampp\htdocs\af\application\views\dashboard.php 38
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 49
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_operativos C:\xampp\htdocs\af\application\views\dashboard.php 54
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 65
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_no_operativos C:\xampp\htdocs\af\application\views\dashboard.php 71
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 100
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_eqInti C:\xampp\htdocs\af\application\views\dashboard.php 105
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 116
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: requierenCalib C:\xampp\htdocs\af\application\views\dashboard.php 122
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 133
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: documentacion C:\xampp\htdocs\af\application\views\dashboard.php 136
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 155
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_socio2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_proyecto_repa2 C:\xampp\htdocs\af\application\views\dashboard.php 163
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_solicitudes_repa C:\xampp\htdocs\af\application\views\dashboard.php 171
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 226
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_novedades C:\xampp\htdocs\af\application\views\dashboard.php 243
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: direccion C:\xampp\htdocs\af\application\views\dashboard.php 253
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: altura C:\xampp\htdocs\af\application\views\dashboard.php 263
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: tipo C:\xampp\htdocs\af\application\views\dashboard.php 273
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: vencimiento C:\xampp\htdocs\af\application\views\dashboard.php 283
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: calibracion C:\xampp\htdocs\af\application\views\dashboard.php 293
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: latitud C:\xampp\htdocs\af\application\views\dashboard.php 303
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: longitud C:\xampp\htdocs\af\application\views\dashboard.php 312
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: sentido C:\xampp\htdocs\af\application\views\dashboard.php 321
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 346
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_activo C:\xampp\htdocs\af\application\views\dashboard.php 347
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 349
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_inactivo C:\xampp\htdocs\af\application\views\dashboard.php 350
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: proyecto_activos C:\xampp\htdocs\af\application\views\dashboard.php 359
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: proyecto_total C:\xampp\htdocs\af\application\views\dashboard.php 367
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: proyecto_inactivos C:\xampp\htdocs\af\application\views\dashboard.php 375
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_deposito C:\xampp\htdocs\af\application\views\dashboard.php 397
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 402
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_socio C:\xampp\htdocs\af\application\views\dashboard.php 407
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_inti C:\xampp\htdocs\af\application\views\dashboard.php 412
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 417
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_robados C:\xampp\htdocs\af\application\views\dashboard.php 422
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: porcentaje_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 427
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_deposito C:\xampp\htdocs\af\application\views\dashboard.php 438
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_proyecto C:\xampp\htdocs\af\application\views\dashboard.php 442
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_socio C:\xampp\htdocs\af\application\views\dashboard.php 446
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_inti C:\xampp\htdocs\af\application\views\dashboard.php 450
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_oficina_tecnica C:\xampp\htdocs\af\application\views\dashboard.php 454
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_robados C:\xampp\htdocs\af\application\views\dashboard.php 458
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: count_vandalizados C:\xampp\htdocs\af\application\views\dashboard.php 462
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 484
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 549
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_instalados C:\xampp\htdocs\af\application\views\dashboard.php 554
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 568
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 570
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: total_avencer C:\xampp\htdocs\af\application\views\dashboard.php 611
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: mantenimiento C:\xampp\htdocs\af\application\views\dashboard.php 646
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: reparacion C:\xampp\htdocs\af\application\views\dashboard.php 649
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: instalacion C:\xampp\htdocs\af\application\views\dashboard.php 652
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: calibraciones C:\xampp\htdocs\af\application\views\dashboard.php 655
+ERROR - 2024-02-26 18:40:18 --> Severity: Notice  --> Undefined variable: bajada C:\xampp\htdocs\af\application\views\dashboard.php 658
+DEBUG - 2024-02-26 18:40:18 --> File loaded: application/views/dashboard.php
+DEBUG - 2024-02-26 18:40:18 --> File loaded: application/views/includes/footer.php
+DEBUG - 2024-02-26 18:40:18 --> Final output sent to browser
+DEBUG - 2024-02-26 18:40:18 --> Total execution time: 0.0946
+DEBUG - 2024-02-26 18:40:18 --> Config Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Hooks Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Utf8 Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> UTF-8 Support Enabled
+DEBUG - 2024-02-26 18:40:18 --> URI Class Initialized
+DEBUG - 2024-02-26 18:40:18 --> Router Class Initialized
+ERROR - 2024-02-26 18:40:18 --> 404 Page Not Found --> print.css

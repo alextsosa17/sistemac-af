@@ -77,7 +77,7 @@ class BaseController extends CI_Controller {
 				// case 'calibListing':
 				// case 'historial':
 				// case 'equipos':
-				case 'equipamiento':
+				case 'productos': //hay que crear el controlador
 					$link = $this->uri->segment (1)."/".$this->uri->segment (2);
 					break;
 
@@ -93,6 +93,10 @@ class BaseController extends CI_Controller {
 			if ($this->menu_model->getAcceso($this->role,$link) === 0) {
 					 show_404();
 			} else {
+
+				
+
+
 				$this->menu ['categorias'] = $this->menu_model->getMenus(0,$this->role);
 				$this->menu ['menus']      = $this->menu_model->getMenus(1,$this->role);
 				$this->menu ['submenus']   = $this->menu_model->getMenus(2,$this->role);
