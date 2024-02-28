@@ -37,10 +37,11 @@
   <body class="skin-blue sidebar-mini">
     <div class="wrapper">
       <header class="main-header">
-        <a href="<?= base_url(); ?>" class="logo">
-          <span class="logo-mini"><b>A</b>F</span>
-          <span class="logo-lg"><b>Sistema de</b> Gestion <b>AF</b></span>
-        </a>
+      <a href="<?= base_url(); ?>" class="logo" style="">
+      <span class="logo-lg"><b>Sistema de</b> Gestion</span>
+        <img src="<?= base_url('assets/images/logo_af.png'); ?>" alt="Logo AF" style="max-height: 100%; marging-right: 100px;;">
+    
+      </a>
         <nav class="navbar navbar-static-top" role="navigation">
           <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
             <span class="sr-only">Toggle navigation</span>

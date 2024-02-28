@@ -158,7 +158,10 @@ class Dashboard extends BaseController
 
     //         $this->data['bajadas'] = $this->ordenesb_model->ordenesList('', 6, 0, "SP", null, $userId, $role);
     //         $this->data['remitos_pendientes'] = $this->socios_model->contarRemitos($userId, $role, 0);
-        $this->load->view('includes/header', $this->global);
+    echo "<pre>";    
+    var_dump($this->menu);
+    die;
+    $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('dashboard', $this->data);
         $this->load->view('includes/footer');

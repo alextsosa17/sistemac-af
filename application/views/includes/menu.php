@@ -3,7 +3,9 @@ AVISO
 1 - Por el momento cada categoria, menu, submenu se agrega en la tabla menu hasta que se diseñe CRUD del menu.
 2 - La misma tiene que estar asociada al rol para que tenga acceso.
 -->
+<?php
 
+?>
 <aside class="main-sidebar">
         <section class="sidebar">
           <ul class="sidebar-menu">
@@ -24,20 +26,20 @@ AVISO
             <?php foreach ($categorias as $categoria): ?>
               <li class="header"><?= $categoria->nombre_menu?></li> <!-- Imprimo las categorias-->
                 <?php foreach ($menus as $menu): ?>
-                  <?php if ($categoria->id == $menu->padre ): ?>
+                  <?php if ($categoria->id_menu == $menu->padre ): ?>
                     <li class="treeview">
                         <a href="<?= base_url($menu->link)?>">
                             <i class="<?= $menu->icono?>"></i>
-                            <span><?= $menu->nombre?></span> <!-- Imprimo las menu-->
+                            <span><?= $menu->nombre_menu?></span> <!-- Imprimo las menu-->
                             <?php if ($menu->link == '#'): ?> <!-- Si hay submenus imprime el icono-->
                               <i class="fa fa-angle-left pull-right"></i>
                             <?php endif; ?>
                         </a>
                         <?php if ($menu->link == '#'): ?>
                         <?php foreach ($submenus as $submenu): ?>
-                          <?php if ($menu->id == $submenu->padre): ?>
+                          <?php if ($menu->id_menu == $submenu->padre): ?>
                             <ul class="treeview-menu">
-                              <li><a href="<?= base_url($submenu->link); ?>" style="margin-left: 10px;"><i class="fa fa-angle-double-right"></i> <?= $submenu->nombre?></a></li> <!-- Imprimo los submenu-->
+                              <li><a href="<?= base_url($submenu->link); ?>" style="margin-left: 10px;"><i class="fa fa-angle-double-right"></i> <?= $submenu->nombre_menu?></a></li> <!-- Imprimo los submenu-->
                             </ul>
                           <?php endif; ?>
                         <?php endforeach; ?>
