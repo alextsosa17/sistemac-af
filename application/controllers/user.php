@@ -8,18 +8,20 @@ class User extends BaseController
     {
         parent::__construct();
         $this->isLoggedIn();
-        // $this->menuPermisos(); //esto esglobal 
-        $this->load->model('user_model');
+        $this->menuPermisos(); //esto esglobal   
+        // $this->load->model('user_model');
         // $this->load->model('equipos_model');
         // $this->load->model('mensajes_model');
 		    // $this->load->library('export_excel'); //esta fijate porque la vas a usar
-        $this->load->library('pagination');
-        $this->load->library('form_validation');
+        // $this->load->library('pagination');
+        // $this->load->library('form_validation');
     }
 
 
     public function index() // This function used to load the first screen of the user.
     {
+
+
         $this->global['pageTitle'] = 'Stock';
 
         $this->load->view('includes/header', $this->global);

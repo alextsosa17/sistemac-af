@@ -3,9 +3,11 @@ AVISO
 1 - Por el momento cada categoria, menu, submenu se agrega en la tabla menu hasta que se diseñe CRUD del menu.
 2 - La misma tiene que estar asociada al rol para que tenga acceso.
 -->
-<?php
-
-?>
+<!-- <?php
+// echo "<pre>"; 
+// var_dump($menus, $submenus);
+// die;
+?> -->
 <aside class="main-sidebar">
         <section class="sidebar">
           <ul class="sidebar-menu">
