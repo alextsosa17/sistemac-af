@@ -18,6 +18,7 @@ class Menu_model extends CI_Model
 
   function getAcceso($role,$uri)
   {
+    
       $this->db->select('M.id_menu');
       $this->db->from('menu as M');
       $this->db->join('menu_permisos as MP', 'MP.id_menu= M.id_menu','left');
@@ -25,7 +26,8 @@ class Menu_model extends CI_Model
       $this->db->where('M.link',$uri);
 
       $query = $this->db->get();
-    
+      // var_dump($query->num_rows());
+      // die;
   		return $query->num_rows();
   }
 

@@ -67,7 +67,7 @@ class BaseController extends CI_Controller {
 			
 			
 			$this->load->model('menu_model');
-		
+			
 			switch ($this->uri->segment(1)) {
 				// case 'mantenimiento':
 				// case 'reparaciones':
@@ -77,29 +77,30 @@ class BaseController extends CI_Controller {
 				// case 'calibListing':
 				// case 'historial':
 				// case 'equipos':
+
 				case 'productos': //hay que crear el controlador
 					$link = $this->uri->segment (1)."/".$this->uri->segment (2);
 					break;
 
-				case 'userListing':
-		
-					$link = $this->uri->segment (1)."/".$this->uri->segment (2)."/".$this->uri->segment (3);
+				case 'userListing':	
+					
+					$link = $this->uri->segment(1)."/".$this->uri->segment(2)."/".$this->uri->segment(3);
 					break;
 				default:
+					
 					$link = $this->uri->segment (1);
 					break;
 			}
-
+	
 			if ($this->menu_model->getAcceso($this->role,$link) === 0) {
+			
 					 show_404();
 			} else {
-
 				
-
-
 				$this->menu ['categorias'] = $this->menu_model->getMenus(0,$this->role);
 				$this->menu ['menus']      = $this->menu_model->getMenus(1,$this->role);
 				$this->menu ['submenus']   = $this->menu_model->getMenus(2,$this->role);
+				
 			}
 	}
 

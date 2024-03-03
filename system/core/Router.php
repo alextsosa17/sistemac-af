@@ -86,6 +86,7 @@ class CI_Router {
 	 */
 	function __construct()
 	{
+		
 		$this->config =& load_class('Config', 'core');
 		$this->uri =& load_class('URI', 'core');
 		log_message('debug', "Router Class Initialized");
@@ -103,7 +104,7 @@ class CI_Router {
 	 * @return	void
 	 */
 	function _set_routing()
-	{
+	{	
 		// Are query strings enabled in the config file?  Normally CI doesn't utilize query strings
 		// since URI segments are more search-engine friendly, but they can optionally be used.
 		// If this feature is enabled, we will gather the directory/class/method a little differently

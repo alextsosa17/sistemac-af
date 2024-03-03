@@ -506,6 +506,7 @@ $route['eliminar_archivo/(:num)'] = "ordenes/eliminar_archivo/$1";
 
 
 $route['ordenes_abiertas'] = "ordenes/ordenes_abiertas";
+$route['bienvenido'] = "user/bienvenido";
 
 
 /*********** Calibración DEFINED ROUTES *******************/

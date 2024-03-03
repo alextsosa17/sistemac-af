@@ -14,7 +14,7 @@ class Dashboard extends BaseController
         $this->isLoggedIn();
         $this->menuPermisos();   
             
-        // $this->load->model('dashboard_model');
+        // $this->load->model('dashboard_model  ');
         // $this->load->model('user_model');s
         // $this->load->model('municipios   _model');
         // $this->load->model('ordenes_model');
@@ -27,7 +27,6 @@ class Dashboard extends BaseController
     }
 
     public function index() // Index Page for this controller.
-
     {   
         
         $this->global['pageTitle'] = 'Sistema de Gestion';
@@ -158,8 +157,11 @@ class Dashboard extends BaseController
 
     //         $this->data['bajadas'] = $this->ordenesb_model->ordenesList('', 6, 0, "SP", null, $userId, $role);
     //         $this->data['remitos_pendientes'] = $this->socios_model->contarRemitos($userId, $role, 0);
+        // echo "<pre>";
 
-    $this->load->view('includes/header', $this->global);
+        // var_dump($this->menu['menus']);
+        // die;
+        $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('dashboard', $this->data);
         $this->load->view('includes/footer');

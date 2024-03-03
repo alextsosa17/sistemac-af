@@ -4,14 +4,12 @@ class Login extends CI_Controller
 {
     public function __construct()
     {
-
         parent::__construct();
         $this->load->model('login_model');
     }
 
     public function index()
     {
-     
         $this->isLoggedIn();
     }
 
@@ -53,7 +51,7 @@ class Login extends CI_Controller
                                             'apellido'=>$res->apellido,
                                             'isLoggedIn' => TRUE
                                     );
-              
+                                        
                     $this->session->set_userdata($sessionArray);
                     redirect('dashboard');
                     // redirect('bienvenido');

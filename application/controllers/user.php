@@ -6,7 +6,9 @@ class User extends BaseController
 {
     public function __construct() // This is default constructor of the class.
     {
+
         parent::__construct();
+        
         $this->isLoggedIn();
         $this->menuPermisos(); //esto esglobal   
         // $this->load->model('user_model');
@@ -21,19 +23,19 @@ class User extends BaseController
     public function index() // This function used to load the first screen of the user.
     {
 
-
         $this->global['pageTitle'] = 'Stock';
-
+      
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         // $this->load->view('dashboard');
         $this->load->view('includes/footer');
     }
 
-
+    // 
     function userListing($value, $filtro = 0) //0.- TODOS 1.-Usuarios 2.-Empleados
     {
-        
+        echo "funcion userListing";
+        die;
         $searchText = $this->input->post('searchText');
         $criterio = $this->input->post('criterio');
 
@@ -172,6 +174,8 @@ class User extends BaseController
 
     function acceso_listado()
     {
+      echo "entro en acceso_listado";
+      die;
       $searchText = $this->input->post('searchText');
       $criterio   = $this->input->post('criterio');
       $data['searchText'] = $searchText;
