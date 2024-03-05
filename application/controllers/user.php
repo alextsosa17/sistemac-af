@@ -11,8 +11,7 @@ class User extends BaseController
         
         $this->isLoggedIn();
         $this->menuPermisos(); //esto esglobal   
-        // $this->load->model('user_model');
-        // $this->load->model('equipos_model');
+        $this->load->model('user_model');
         // $this->load->model('mensajes_model');
 		    // $this->load->library('export_excel'); //esta fijate porque la vas a usar
         // $this->load->library('pagination');
