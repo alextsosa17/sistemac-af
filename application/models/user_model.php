@@ -434,47 +434,83 @@ class User_model extends CI_Model
 
 
 
-    function listadoAccesos($searchText= '',$criterio,$page = NULL, $segment = NULL,$role,$userId)
+    // function listadoAccesos($searchText= '',$criterio,$page = NULL, $segment = NULL,$role,$userId)
+    // {
+    //     // return "listadoAccesos";
+
+    //     $this->db->select('AC.id, AC.nombre, AC.link, AC.orden, AC.padre, AC.tipo');
+    //     $this->db->from('menu as AC');
+
+
+    //     if(!empty($searchText)) {
+    //         switch ($criterio) {
+    //             case 1:
+    //                 $likeCriteria = "(AC.id LIKE '%".$searchText."%')";
+    //                 break;
+    //             case 2:
+    //                 $likeCriteria = "(AC.nombre LIKE '%".$searchText."%')";
+    //                 break;
+    //             case 3:
+    //                 $likeCriteria = "(AC.link  LIKE '%".$searchText."%')";
+    //                 break;
+    //             default:
+    //                 $likeCriteria = "(AC.id  LIKE '%".$searchText."%' OR  AC.nombre  LIKE '%".$searchText."%' OR  AC.link  LIKE '%".$searchText."%')";
+    //                 break;
+    //         }
+    //         $this->db->where($likeCriteria);
+    //     }
+
+
+    //     $this->db->order_by('AC.id', 'DESC');
+    //     if ($page != NULL) {
+    //       $this->db->limit($page, $segment);
+    //     }
+
+    //     $query = $this->db->get();
+
+    //     if ($page != NULL) {
+    //       return $query->result();
+    //     }
+    //     return count($query->result());
+    // }
+
+    function listadoAccesos($searchText = '', $criterio, $page = NULL, $segment = NULL, $role, $userId)
     {
-        return "listadoAccesos";
-        // var_dump($searchText ,$criterio,$page , $segment ,$role,$userId)
-        // die;
+        $this->db->select('AC.id_menu, AC.nombre_menu, AC.link, AC.orden, AC.padre, AC.tipo');
+        $this->db->from('menu as AC');
+        //se usa un array asociativo para no usar el switch case que estaba arriba     
+        $searchFields = array(
+            1 => 'AC.id_menu',
+            2 => 'AC.nombre_menu',
+            3 => 'AC.link'
+        );
+    
+        if (!empty($searchText) && array_key_exists($criterio, $searchFields)) {
+            $this->db->like($searchFields[$criterio], $searchText);
+        } elseif (!empty($searchText)) {
+            $this->db->group_start();
+            foreach ($searchFields as $field) {
+                $this->db->or_like($field, $searchText);
+            }
+            $this->db->group_end();
+        }
 
-        // // $this->db->select('AC.id, AC.nombre, AC.link, AC.orden, AC.padre, AC.tipo');
-        // // $this->db->from('menu as AC');
-
-
-        // if(!empty($searchText)) {
-        //     switch ($criterio) {
-        //         case 1:
-        //             $likeCriteria = "(AC.id LIKE '%".$searchText."%')";
-        //             break;
-        //         case 2:
-        //             $likeCriteria = "(AC.nombre LIKE '%".$searchText."%')";
-        //             break;
-        //         case 3:
-        //             $likeCriteria = "(AC.link  LIKE '%".$searchText."%')";
-        //             break;
-        //         default:
-        //             $likeCriteria = "(AC.id  LIKE '%".$searchText."%' OR  AC.nombre  LIKE '%".$searchText."%' OR  AC.link  LIKE '%".$searchText."%')";
-        //             break;
-        //     }
-        //     // $this->db->where($likeCriteria);
-        // }
-
-
-        // // $this->db->order_by('AC.id', 'DESC');
-        // if ($page != NULL) {
-        // //   $this->db->limit($page, $segment);
-        // }
-
-        // // $query = $this->db->get();
-
-        // if ($page != NULL) {
-        // //   return $query->result();
-        // }
-        // return count($query->result());
+        $this->db->order_by('AC.id_menu', 'DESC');
+        if ($page !== NULL) {
+            $this->db->limit($page, $segment);
+        }
+        
+        $query = $this->db->get();
+        if ($page !== NULL) {
+            return $query->result();
+        }
+        return $query->num_rows();
     }
+    
+
+
+
+
 
 
     function agregarAcceso($accesoInfo

@@ -173,8 +173,8 @@ class User extends BaseController
 
     function acceso_listado()
     {
-      echo "entro en acceso_listado";
-      die;
+      // echo "entro en acceso_listado";
+      // die;
       $searchText = $this->input->post('searchText');
       $criterio   = $this->input->post('criterio');
       $data['searchText'] = $searchText;
@@ -182,6 +182,7 @@ class User extends BaseController
 
       $count = $this->user_model->listadoAccesos($searchText,$criterio,NULL,NULL,$this->role,$this->session->userdata('userId'));
       $returns = $this->paginationCompress( "acceso_listado/", $count, CANTPAGINA );
+
 
       $data['accesos'] = $this->user_model->listadoAccesos($searchText,$criterio,$returns["page"], $returns["segment"],$this->role,$this->session->userdata('userId'));
 

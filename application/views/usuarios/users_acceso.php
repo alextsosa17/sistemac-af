@@ -94,8 +94,8 @@ if(empty($criterio)){
 
                       <?php foreach ($accesos as $acceso): ?>
                         <tr>
-                          <td class="text-center"><?=$acceso->id?></td>
-                          <td><?=$acceso->nombre?></td>
+                          <td class="text-center"><?=$acceso->id_menu?></td>
+                          <td><?=$acceso->nombre_menu?></td>
                           <td><?=$acceso->link?></td>
                           <td class="text-center"><?=$acceso->orden?></td>
                           <td class="text-center"><?=$acceso->padre?></td>
