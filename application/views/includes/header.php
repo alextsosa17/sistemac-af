@@ -39,7 +39,7 @@
       <header class="main-header">
       <a href="<?= base_url(); ?>" class="logo" style="">
       <span class="logo-lg"><b>Sistema de</b> Gestion</span>
-        <img src="<?= base_url('assets/images/logo_af.png'); ?>" alt="Logo AF" style="max-height: 100%; marging-right: 100px;;">
+        <img src="<?= base_url('assets/images/logo_af.png'); ?>" alt="Logo AF" style="max-height: 100%; display:flex justify-content: left;">
     
       </a>
         <nav class="navbar navbar-static-top" role="navigation">
