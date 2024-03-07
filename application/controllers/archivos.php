@@ -32,7 +32,7 @@ class Archivos extends BaseController
     }
     public function index()
     {
-        $this->global['pageTitle'] = 'CECAITRA: Adminstracion';
+        $this->global['pageTitle'] = 'AF: Adminstracion';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -77,7 +77,7 @@ class Archivos extends BaseController
         $data['descargar'] = 'archivo_descargar';
         $data['eliminar'] = 'archivo_eliminar';
 
-        $this->global['pageTitle'] = 'CECAITRA : Archivos Equipos';
+        $this->global['pageTitle'] = 'AF : Archivos Equipos';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('archivos/archivos', $data);

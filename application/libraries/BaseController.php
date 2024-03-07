@@ -91,7 +91,7 @@ class BaseController extends CI_Controller {
 					$link = $this->uri->segment (1);
 					break;
 			}
-	
+
 			if ($this->menu_model->getAcceso($this->role,$link) === 0) {
 			
 					 show_404();

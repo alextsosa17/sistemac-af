@@ -70,16 +70,18 @@ class User extends BaseController
 
 
     function agregar_usuario()
-    {
-        $data['roles']       = $this->user_model->getUserRoles();
-        $data['puestos']     = $this->user_model->getPuestos();
-        $data['asociados']   = $this->equipos_model->getAsociados();
-        $data['sedes']       = $this->user_model->getSedes();
+    {   
+        
+        $data['roles_secundarios'] = $this->user_model->getUserRoles();
+        die;
+        // $data['puestos']     = $this->user_model->getPuestos();
+        // $data['asociados']   = $this->equipos_model->getAsociados();
+        // $data['sedes']       = $this->user_model->getSedes();
 
         $data['tipoItem']    = "Agregar";
         $data['tipoUsuario'] = "Usuario";
 
-        $this->global['pageTitle'] = 'CECAITRA : Agregar usuario';
+        $this->global['pageTitle'] = 'AF : Agregar usuario';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('usuarios/users_AddEdit', $data);
@@ -173,8 +175,6 @@ class User extends BaseController
 
     function acceso_listado()
     {
-      // echo "entro en acceso_listado";
-      // die;
       $searchText = $this->input->post('searchText');
       $criterio   = $this->input->post('criterio');
       $data['searchText'] = $searchText;
@@ -185,7 +185,7 @@ class User extends BaseController
 
 
       $data['accesos'] = $this->user_model->listadoAccesos($searchText,$criterio,$returns["page"], $returns["segment"],$this->role,$this->session->userdata('userId'));
-
+      
       $data['total'] =  $count;
       $data['total_tabla'] =  $this->user_model->listadoAccesos('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'));
 
@@ -201,8 +201,11 @@ class User extends BaseController
 
     function agregar_acceso()
     {
-        $data['roles']       = $this->user_model->getUserRoles();
-
+      var_dump($this->role);
+      die;
+        // $data['roles'] = 
+        // var_dump($data['roles']);
+        // die;
         $this->global['pageTitle'] = 'CECAITRA : Agregar acceso';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);

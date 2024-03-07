@@ -16,7 +16,7 @@ class Estadisticas extends BaseController
 
     public function index()
     {
-        $this->global['pageTitle'] = 'CECAITRA: Adminstracion';
+        $this->global['pageTitle'] = 'AF: Adminstracion';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -54,7 +54,7 @@ class Estadisticas extends BaseController
       $data['total_tabla'] =  $this->estadisticas_model->listadoArchivos('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$opciones);
       $data['opciones'] = $opciones;
 
-      $this->global['pageTitle'] = 'CECAITRA: Estadisticas Archivos';
+      $this->global['pageTitle'] = 'AF: Estadisticas Archivos';
       $this->load->view('includes/header', $this->global);
       $this->load->view('includes/menu', $this->menu);
       $this->load->view('estadisticas/estadisticas_archivos', $data);

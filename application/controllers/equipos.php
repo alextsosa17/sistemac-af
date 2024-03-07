@@ -33,7 +33,7 @@ class Equipos extends BaseController
 
     public function index() // This function used to load the first screen of the user.
     {
-        $this->global['pageTitle'] = 'CECAITRA: Stock';
+        $this->global['pageTitle'] = 'AF: Stock';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -89,7 +89,7 @@ class Equipos extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->equipos_model->equiposListingCount('', '', '',$criterio,NULL, $userId, $rol, '', NULL, '');
 
-        $this->global['pageTitle'] = 'CECAITRA: Equipos listado';
+        $this->global['pageTitle'] = 'AF: Equipos listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('equipos/equipos', $data);
@@ -111,7 +111,7 @@ class Equipos extends BaseController
 
         $data['tipoItem'] = "Agregar";
 
-        $this->global['pageTitle'] = 'CECAITRA : Agregar equipo';
+        $this->global['pageTitle'] = 'AF : Agregar equipo';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('equipos/equipos_AddEdit', $data);
@@ -301,7 +301,7 @@ class Equipos extends BaseController
 
         $data['tipoItem'] = "Editar";
 
-        $this->global['pageTitle'] = 'CECAITRA : Editar Equipo';
+        $this->global['pageTitle'] = 'AF : Editar Equipo';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('equipos/equipos_AddEdit', $data);
@@ -1024,7 +1024,7 @@ class Equipos extends BaseController
         $data['ultima_bajada'] = $this->ordenesb_model->ultima_bajadaEquipo($data['equipo']->serie);
         $data['archivos'] = $this->adjuntar_model->getArchivosEquipos($equipoId, NULL, 1);
 
-        $this->global['pageTitle'] = 'CECAITRA : Detalle del equipo';
+        $this->global['pageTitle'] = 'AF : Detalle del equipo';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('equipos/equipos_ver', $data);

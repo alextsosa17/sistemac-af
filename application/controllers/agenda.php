@@ -16,7 +16,7 @@ class Agenda extends BaseController
     function calendario()
     {
     	$viewdata['userId'] = $this->session->userdata('userId');
-        $this->global['pageTitle'] = 'CECAITRA: Calendario';
+        $this->global['pageTitle'] = 'AF: Calendario';
         $viewdata['tiposeventos'] = $this->agenda_model->getEventosTipos();
 
 		$this->load->view('includes/header', $this->global);
@@ -76,7 +76,7 @@ class Agenda extends BaseController
 				// Le vuelvo a pasar datos por POST así deja el formulario como antes de enviarlo, excepto asistentes
 				$viewdata['post'] = $_POST;
 				// Si hay invitados ocupados en esa fecha, vuelvo a agregar evento
-				$this->global['pageTitle'] = 'CECAITRA: Añadir evento';
+				$this->global['pageTitle'] = 'AF: Añadir evento';
 
 				$this->load->view('includes/header', $this->global);
 				$this->load->view('includes/menu', $this->menu);
@@ -109,7 +109,7 @@ class Agenda extends BaseController
 				redirect('agenda-calendario');
 			}
 		} else {
-			$this->global['pageTitle'] = 'CECAITRA: Añadir evento';
+			$this->global['pageTitle'] = 'AF: Añadir evento';
 
 			$this->load->view('includes/header', $this->global);
 			$this->load->view('includes/menu', $this->menu);
@@ -135,7 +135,7 @@ class Agenda extends BaseController
 	     		redirect('agenda-invitaciones');
 	    	} else {
 	    		$viewdata['invitaciones']= $this->agenda_model->getInvitaciones($this->session->userdata('userId'),$returns["page"], $returns["segment"]);
-	    		$this->global['pageTitle'] = 'CECAITRA: Listado de invitaciones';
+	    		$this->global['pageTitle'] = 'AF: Listado de invitaciones';
 
 	    		$this->load->view('includes/header', $this->global);
 					$this->load->view('includes/menu', $this->menu);

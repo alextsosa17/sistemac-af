@@ -44,11 +44,12 @@ $route['404_override'] = '';
 /*********** USER DEFINED ROUTES *******************/
 $route['recuperar'] = 'recuperar/recuperarPass';
 $route['reset'] = 'recuperar/resetPass';
-
+//lohgin and dashboard
 $route['loginMe'] = 'login/loginMe';
 $route['dashboard'] = 'dashboard';
 $route['logout'] = 'user/logout';
-
+$route['bienvenido'] = "dashboard/bienvenido";
+//userListing 0/1 es admin y 0/2 es empleado fijate de no tener que harcodear datos sino conseguirlos por base de datos 
 $route['userListing'] = 'user/userListing';
 $route['userListing/(:num)'] = "user/userListing/$1";
 $route['userListing/(:num)/(:num)'] = "user/userListing/$1/$2"; 
@@ -57,7 +58,7 @@ $route['userListing/(:num)/(:num)'] = "user/userListing/$1/$2";
 
 
 $route['agregar_usuario'] = "user/agregar_usuario";
-$route['agregar_empleado'] = "user/agregar_empleado";
+// $route['agregar_empleado'] = "user/agregar_empleado";
 
 $route['editar_usuario'] = "user/editar_usuario";
 $route['editar_usuario/(:num)'] = "user/editar_usuario/$1";
@@ -506,7 +507,6 @@ $route['eliminar_archivo/(:num)'] = "ordenes/eliminar_archivo/$1";
 
 
 $route['ordenes_abiertas'] = "ordenes/ordenes_abiertas";
-$route['bienvenido'] = "user/bienvenido";
 
 
 /*********** Calibración DEFINED ROUTES *******************/

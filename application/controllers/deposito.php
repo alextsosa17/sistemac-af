@@ -26,7 +26,7 @@ class Deposito extends BaseController
 
     public function index()
     {
-        $this->global['pageTitle'] = 'CECAITRA: Adminstracion';
+        $this->global['pageTitle'] = 'AF: Adminstracion';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -56,7 +56,7 @@ class Deposito extends BaseController
         $data['total_tabla'] =  $this->deposito_model->listadoRemitos('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado,$opciones);
         $data['opciones'] = $opciones;
 
-        $this->global['pageTitle'] = 'CECAITRA: Ingreso listado';
+        $this->global['pageTitle'] = 'AF: Ingreso listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito', $data);
@@ -84,7 +84,7 @@ class Deposito extends BaseController
         $data['total_tabla'] =  $this->deposito_model->listadoRemitos('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado,$opciones);
         $data['opciones'] = $opciones;
 
-        $this->global['pageTitle'] = 'CECAITRA: Custodia listado';
+        $this->global['pageTitle'] = 'AF: Custodia listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito', $data);
@@ -111,7 +111,7 @@ class Deposito extends BaseController
 
         $data['permisosInfo'] = $this->user_model->getPermisosInfo($this->session->userdata('userId'));
 
-        $this->global['pageTitle'] = 'CECAITRA: Egresos listado';
+        $this->global['pageTitle'] = 'AF: Egresos listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito', $data);
@@ -138,7 +138,7 @@ class Deposito extends BaseController
         $data['total_tabla'] =  $this->deposito_model->listadoRemitos('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado,$opciones);
         $data['opciones'] = $opciones;
 
-        $this->global['pageTitle'] = 'CECAITRA: Finalizadas listado';
+        $this->global['pageTitle'] = 'AF: Finalizadas listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito', $data);
@@ -174,7 +174,7 @@ class Deposito extends BaseController
         $data['descargar'] = 'descargar_archivos';
         $data['eliminar'] = 'eliminar_archivos';
 
-        $this->global['pageTitle'] = 'CECAITRA : Solicitar Presupuesto';
+        $this->global['pageTitle'] = 'AF : Solicitar Presupuesto';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('sectores/SEC_adjArchivos', $data);
@@ -193,7 +193,7 @@ class Deposito extends BaseController
 
         $data['descargar'] = 'descargar_archivos';
 
-        $this->global['pageTitle'] = 'CECAITRA: Remito Deposito';
+        $this->global['pageTitle'] = 'AF: Remito Deposito';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito_ver', $data);
@@ -205,7 +205,7 @@ class Deposito extends BaseController
     {
         $data['municipios'] = $this->municipios_model->getMunicipios(NULL, NULL, NULL, NULL, NULL,1);
 
-        $this->global['pageTitle'] = 'CECAITRA: Nuevo Ingreso';
+        $this->global['pageTitle'] = 'AF: Nuevo Ingreso';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('deposito/deposito_nuevo_ingreso', $data);

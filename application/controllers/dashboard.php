@@ -167,15 +167,12 @@ class Dashboard extends BaseController
         $this->load->view('includes/footer');
     }
 
-    public function bienvenido()
-    {
-        $this->global['pageTitle'] = 'CECAITRA: Sistema';
+    public function bienvenido() {
+        $this->global['pageTitle'] = 'AF: Sistema';
         $userName = $this->session->userdata('name');
         date_default_timezone_set('America/Argentina/Buenos_Aires');
-        // Obtener la hora actual del servidor
         $hora_actual = date('H');
-       
-        // Determinar el momento del día
+
         if ($hora_actual >= 5 && $hora_actual < 12) {
             $saludo = "Buenos días $userName   ";
         } elseif ($hora_actual >= 12 && $hora_actual < 19) {
@@ -184,14 +181,11 @@ class Dashboard extends BaseController
             $saludo = "Buenas noches $userName   ";
         }
 
-        // Pasar el saludo a la vista a través del arreglo $this->data
         $this->data['saludo'] = $saludo;
 
-        //---- carga de las vistas que tiene que mostrar luego de redireccionar el login----
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('bienvenido', $this->data);
         $this->load->view('includes/footer');
-
     }
 }

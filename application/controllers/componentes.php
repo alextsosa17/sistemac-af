@@ -20,7 +20,7 @@ class Componentes extends BaseController
 
     public function index()
     {
-        $this->global['pageTitle'] = 'CECAITRA: Stock';
+        $this->global['pageTitle'] = 'AF: Stock';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -41,7 +41,7 @@ class Componentes extends BaseController
         $userId = $this->session->userdata('userId');
         $data['permisosInfo'] = $this->user_model->getPermisosInfo($userId);
 
-        $this->global['pageTitle'] = $data['pageTitle'] = 'CECAITRA: Componentes listado';
+        $this->global['pageTitle'] = $data['pageTitle'] = 'AF: Componentes listado';
         $data['link'] = 'componentesListing';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -77,7 +77,7 @@ class Componentes extends BaseController
         $data['marcas'] = $this->componentes_model->getComponenteMarcas();
         $data['eventos'] = $this->eventos_model->getEventos('C');
 
-        $this->global['pageTitle'] = 'CECAITRA : Agregar Componente ';
+        $this->global['pageTitle'] = 'AF : Agregar Componente ';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('addNewComp', $data);
@@ -141,7 +141,7 @@ class Componentes extends BaseController
         $data['eventos']        = $this->eventos_model->getEventos('C');
         $data['componenteInfo'] = $this->componentes_model->getComponenteInfo($componenteId);
 
-        $this->global['pageTitle'] = 'CECAITRA : Editar Componente';
+        $this->global['pageTitle'] = 'AF : Editar Componente';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('editOldComponente', $data);
@@ -204,7 +204,7 @@ class Componentes extends BaseController
   			$data['eventos']        = $this->eventos_model->getEventos('C');
   			$data['componenteInfo'] = $this->componentes_model->getComponenteInfo2($tipoId,$marcaId);
 
-  			$this->global['pageTitle'] = 'CECAITRA : Editar Componente';
+  			$this->global['pageTitle'] = 'AF : Editar Componente';
   			$this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
   			$this->load->view('editOldComponente2', $data);
@@ -336,7 +336,7 @@ class Componentes extends BaseController
         $data['marcas']  = $this->componentes_model->getComponenteMarcas();
         $data['eventos'] = $this->eventos_model->getEventos('C');
 
-        $this->global['pageTitle'] = 'CECAITRA : Agregar Componente sin número de serie';
+        $this->global['pageTitle'] = 'AF : Agregar Componente sin número de serie';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('addNewComp2', $data);
@@ -439,7 +439,7 @@ class Componentes extends BaseController
     	$data['config']   = $newconfig;
     	$data['mensaje']  = $mensaje;
 
-      $this->global['pageTitle'] = 'CECAITRA: Asignación de componentes';
+      $this->global['pageTitle'] = 'AF: Asignación de componentes';
     	$this->load->view('includes/header', $this->global);
       $this->load->view('includes/menu', $this->menu);
     	$this->load->view('equiposconfig', $data);
@@ -520,7 +520,7 @@ class Componentes extends BaseController
     		$data['config']   = $newconfig;
     		$data['mensaje']  = $mensaje;
 
-        $this->global['pageTitle'] = 'CECAITRA: Asignación de componentes';
+        $this->global['pageTitle'] = 'AF: Asignación de componentes';
     		$this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
     		$this->load->view('equiposconfig', $data);

@@ -19,11 +19,11 @@ class Equipamiento extends BaseController
     function solicitud()
     {
         $viewdata['userId'] = $this->session->userdata('userId');
-        $this->global['pageTitle'] = 'CECAITRA: Añadir evento';
+        $this->global['pageTitle'] = 'AF: Añadir evento';
         $viewdata['equipos_tipos'] = $this->equipos_model->getEquiposTipos();
         $viewdata['municipios'] = $this->municipios_model->getMunicipios();
 //         die("<pre>".print_r($viewdata['equipos'],TRUE)."</pre>");
-        $this->global['pageTitle'] = 'CECAITRA: Añadir solicitud de provisión de equipamiento';
+        $this->global['pageTitle'] = 'AF: Añadir solicitud de provisión de equipamiento';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('equipamiento_solicitud',$viewdata);

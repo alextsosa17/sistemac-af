@@ -25,7 +25,7 @@ class Calib extends BaseController
 
     public function index() // This function used to load the first screen of the user
     {
-        $this->global['pageTitle'] = 'CECAITRA: Calibraciones';
+        $this->global['pageTitle'] = 'AF: Calibraciones';
 
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
@@ -54,7 +54,7 @@ class Calib extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->calib_model->listadoOrdenes('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado);
 
-        $this->global['pageTitle'] = 'CECAITRA: Solicitudes listado';
+        $this->global['pageTitle'] = 'AF: Solicitudes listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_solicitudes', $data);
@@ -78,7 +78,7 @@ class Calib extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->calib_model->listadoOrdenes('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado);
 
-        $this->global['pageTitle'] = 'CECAITRA: Ordenes listado';
+        $this->global['pageTitle'] = 'AF: Ordenes listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_ordenes', $data);
@@ -103,7 +103,7 @@ class Calib extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->calib_model->listadoOrdenes('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado);
 
-        $this->global['pageTitle'] = 'CECAITRA: Ordenes listado';
+        $this->global['pageTitle'] = 'AF: Ordenes listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_pendientes', $data);
@@ -128,7 +128,7 @@ class Calib extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->calib_model->listadoOrdenes('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado);
 
-        $this->global['pageTitle'] = 'CECAITRA: Ordenes listado';
+        $this->global['pageTitle'] = 'AF: Ordenes listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_rechazadas', $data);
@@ -154,7 +154,7 @@ class Calib extends BaseController
         $data['total'] =  $count;
         $data['total_tabla'] =  $this->calib_model->listadoOrdenes('',NULL,NULL,NULL,$this->role,$this->session->userdata('userId'),$estado);
 
-        $this->global['pageTitle'] = 'CECAITRA: Ordenes listado';
+        $this->global['pageTitle'] = 'AF: Ordenes listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_finalizadas', $data);
@@ -171,7 +171,7 @@ class Calib extends BaseController
         $data['tipo_equipo'] = $this->tiposeq_model->tiposeqListing(NULL,NULL,NULL);
         $data['tipoItem']    = "Agregar";
 
-        $this->global['pageTitle'] = 'CECAITRA : Crear Solicitud de Calibración';
+        $this->global['pageTitle'] = 'AF : Crear Solicitud de Calibración';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_AddEditSolicitud', $data);
@@ -191,7 +191,7 @@ class Calib extends BaseController
         $data['prioridades'] = $this->calib_model->getPrioridades();
         $data['tipoItem']    = "Editar";
 
-        $this->global['pageTitle'] = 'CECAITRA : Editar Solicitud Revisión Técnica';
+        $this->global['pageTitle'] = 'AF : Editar Solicitud Revisión Técnica';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_AddEditSolicitud', $data);
@@ -212,7 +212,7 @@ class Calib extends BaseController
         $data['servicios'] = $this->calib_model->getTipoServicio();
         $data['prioridades'] = $this->calib_model->getPrioridades();
 
-        $this->global['pageTitle'] = 'CECAITRA : Editar Solicitud Aprobación Calibración';
+        $this->global['pageTitle'] = 'AF : Editar Solicitud Aprobación Calibración';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_editPedidoSoli', $data);
@@ -248,7 +248,7 @@ class Calib extends BaseController
 
         //die(var_dump($data['numeros_ot']));
 
-        $this->global['pageTitle'] = 'CECAITRA : Editar Orden Calibración';
+        $this->global['pageTitle'] = 'AF : Editar Orden Calibración';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_editOrden', $data);
@@ -276,7 +276,7 @@ class Calib extends BaseController
         $data['restantes'] = $restantes;
         $data['permisosInfo'] = $this->user_model->getPermisosInfo($this->session->userdata('userId'));
 
-        $this->global['pageTitle'] = 'CECAITRA: Aprobaciones de equipo';
+        $this->global['pageTitle'] = 'AF: Aprobaciones de equipo';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_aprobaciones', $data);
@@ -299,7 +299,7 @@ class Calib extends BaseController
 
         $data['parciales'] = $this->calib_model->getParciales($id_pedido);
 
-        $this->global['pageTitle'] = 'CECAITRA: Ver Parciales';
+        $this->global['pageTitle'] = 'AF: Ver Parciales';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_verPedido', $data);
@@ -330,7 +330,7 @@ class Calib extends BaseController
 
       $data['id_pedido'] = $id_pedido;
 
-      $this->global['pageTitle'] = 'CECAITRA: Pedido de compra';
+      $this->global['pageTitle'] = 'AF: Pedido de compra';
       $this->load->view('includes/header', $this->global);
       $this->load->view('includes/menu', $this->menu);
       $this->load->view('calibraciones/calib_addEditCompra', $data);
@@ -358,7 +358,7 @@ class Calib extends BaseController
         $estados = array(3,4,5,6,9,10,11,14,15,16);
         $data['ordenes'] =  $this->ordenes_model->ordenes_abiertas($data['calibInfo'][0]->equipoSerie,$estados,'R');
 
-        $this->global['pageTitle'] = 'CECAITRA : Detalle Orden Calibración';
+        $this->global['pageTitle'] = 'AF : Detalle Orden Calibración';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_ver', $data);
@@ -397,7 +397,7 @@ class Calib extends BaseController
       $viewdata['eliminar'] = 'eliminar_certificado';
 
 
-      $this->global['pageTitle'] = 'CECAITRA: Adjuntar archivos';
+      $this->global['pageTitle'] = 'AF: Adjuntar archivos';
       $this->load->view('includes/header', $this->global);
       $this->load->view('includes/menu', $this->menu);
       $this->load->view('sectores/SEC_adjArchivos',$viewdata);
@@ -1245,16 +1245,16 @@ function agregar_editar_SG() // Funcion que agrega o edita la solicitud de calib
 
         switch ($filtro){
             case 0:
-                $this->global['pageTitle'] = 'CECAITRA: Solicitud de Calibracion listado';
+                $this->global['pageTitle'] = 'AF: Solicitud de Calibracion listado';
             break;
             case 1:
-                $this->global['pageTitle'] = 'CECAITRA: Ordenes Calibración listado';
+                $this->global['pageTitle'] = 'AF: Ordenes Calibración listado';
             break;
             case 2:
-                $this->global['pageTitle'] = 'CECAITRA: Ordenes Calibración Pendientes listado';
+                $this->global['pageTitle'] = 'AF: Ordenes Calibración Pendientes listado';
             break;
             case 3:
-                $this->global['pageTitle'] = 'CECAITRA: Ordenes Calibración Finalizadas listado';
+                $this->global['pageTitle'] = 'AF: Ordenes Calibración Finalizadas listado';
             break;
         }
 
@@ -1275,7 +1275,7 @@ function agregar_editar_SG() // Funcion que agrega o edita la solicitud de calib
         $data['parciales_multiRecords'] = $this->calib_model->parcialesListing($tipo2);
         $data['parciales_movilRecords'] = $this->calib_model->parcialesListing($tipo3);
 
-        $this->global['pageTitle'] = 'CECAITRA: Numero de Paricales listado';
+        $this->global['pageTitle'] = 'AF: Numero de Paricales listado';
         $this->load->view('includes/header', $this->global);
         $this->load->view('includes/menu', $this->menu);
         $this->load->view('calibraciones/calib_parciales', $data);

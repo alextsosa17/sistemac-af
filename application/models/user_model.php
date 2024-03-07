@@ -137,16 +137,17 @@ class User_model extends CI_Model
 
     function getUserRoles()
     {
-        return"getUserRoles";
 
-        // // $this->db->select('roleId, role');
-        // // $this->db->from('roles');
-        // // $this->db->where('roleId !=', 1);
-        // // $this->db->where('roleId !=', 99);
-        // // $this->db->order_by('role', 'asc');
-
-        // // $query = $this->db->get();
-        // // return $query->result();
+        $this->db->select('id_rol, roles');
+        $this->db->from('roles');
+        
+        
+        $this->db->where('id_rol !=', '1');
+        $this->db->where('id_rol !=', '99');
+        $this->db->order_by('role', 'asc');
+        $query = $this->db->get();
+        return $query->result();
+        
     }
 
     function getUserInfo($userId ,$filtro = FALSE)
@@ -154,7 +155,7 @@ class User_model extends CI_Model
 
         return "getUserInfo";
 
-        // // $this->db->select('BaseTbl.userId, BaseTbl.name, BaseTbl.nombre, BaseTbl.apellido, BaseTbl.email, BaseTbl.mobile, BaseTbl.roleId, BaseTbl.puesto, BaseTbl.asociado, BaseTbl.imei, BaseTbl.modelomov, BaseTbl.tipo as u_tipo, BaseTbl.id_sede, BaseTbl.interno, BaseTbl.grupo');
+        // // $this->db->select('BaseTbl.userId, BaseTbl.name, BaseTbl.nombre, BaseTbl.apellido, BaseTbl.email, BaseTbl.mobile, BaseTbl.id_rol, BaseTbl.puesto, BaseTbl.asociado, BaseTbl.imei, BaseTbl.modelomov, BaseTbl.tipo as u_tipo, BaseTbl.id_sede, BaseTbl.interno, BaseTbl.grupo');
         // // $this->db->from('usuarios as BaseTbl');
         // if ($filtro) {
         // //     $this->db->select('role, tbl_puestos.descrip as u_puesto, equipos_propietarios.descrip as u_propiet,E.telefono, E.sede as sede_descrip, E.direccion');
@@ -476,18 +477,19 @@ class User_model extends CI_Model
 
     function listadoAccesos($searchText = '', $criterio, $page = NULL, $segment = NULL, $role, $userId)
     {
-        $this->db->select('AC.id_menu, AC.nombre_menu, AC.link, AC.orden, AC.padre, AC.tipo');
-        $this->db->from('menu as AC');
-        //se usa un array asociativo para no usar el switch case que estaba arriba     
+        //este array asociativo te ahorra un switch case inncesario
         $searchFields = array(
             1 => 'AC.id_menu',
             2 => 'AC.nombre_menu',
             3 => 'AC.link'
         );
-    
+        $this->db->select('AC.id_menu, AC.nombre_menu, AC.link, AC.orden, AC.padre, AC.tipo');
+        $this->db->from('menu as AC');
+        //se usa un array asociativo para no usar el switch case que estaba arriba     
+        
         if (!empty($searchText) && array_key_exists($criterio, $searchFields)) {
-            $this->db->like($searchFields[$criterio], $searchText);
-        } elseif (!empty($searchText)) {
+            $this->db->like($searchFields[$criterio], $searchText);    
+        } elseif (!empty($searchText)) { //que el ususario haya elegido un criterio pero no haya elegido nignun texto en searchText
             $this->db->group_start();
             foreach ($searchFields as $field) {
                 $this->db->or_like($field, $searchText);
@@ -504,6 +506,8 @@ class User_model extends CI_Model
         if ($page !== NULL) {
             return $query->result();
         }
+
+
         return $query->num_rows();
     }
     
@@ -516,7 +520,7 @@ class User_model extends CI_Model
     function agregarAcceso($accesoInfo
     ) //Agrego un nuevo menu.
     {
-        return "agregarAcceso";
+        // return "agregarAcceso";
         // $this->db->trans_start();
         // $this->db->insert('menu', $accesoInfo);
 

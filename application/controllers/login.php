@@ -20,8 +20,8 @@ class Login extends CI_Controller
         if(!isset($isLoggedIn) || $isLoggedIn != TRUE){
             $this->load->view('login');
         } else {
-            redirect('/dashboard');
-            // redirect('bienvenido');
+            // redirect('/dashboard');
+            redirect('bienvenido');
         }
     }
 
@@ -53,8 +53,8 @@ class Login extends CI_Controller
                                     );
                                         
                     $this->session->set_userdata($sessionArray);
-                    redirect('dashboard');
-                    // redirect('bienvenido');
+                    // redirect('dashboard');
+                    redirect('bienvenido');
                 }
             } else {
                 $this->session->set_flashdata('error', 'El correo electrónico y/o clave son incorrectas, vuelva a intentarlo.');

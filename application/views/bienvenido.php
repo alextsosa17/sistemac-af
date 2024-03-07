@@ -2,23 +2,26 @@
 #columna {
     overflow: auto;
     height: 320px;
-    /*establece la altura máxima, lo que no entre quedará por debajo y saldra la barra de scroll*/
 }
 
+.content-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
 .cartel-bienvenida h2 {
-  position: absolute;
-  top: 20 ;
-  right : 0;
-  display: flex;
-  justify-content:end;
-  align-items: end;
-  margin: 20px;
-  padding: 1em;
-  opacity: 0;
-  animation-name: aparecer;
-  animation-duration: 1s;
-  animation-fill-mode: forwards;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 1em;
+    opacity: 0;
+    animation-name: aparecer;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes aparecer {
@@ -31,11 +34,8 @@
 }
 
 #saludo {
-  display: inline-block;
-  padding: 10px;
-  /* border: 1px solid grey; */
-
-
+    display: inline-block;
+    padding: 10px;
 }
 
 #infor {
@@ -49,12 +49,11 @@
 </style>
 
 <link rel="stylesheet" type="text/css" href="<?=base_url('assets/css/breadcrumbs.css');?>">
-
-<div class="content-wrapper position-relative">
-    <br>
-    <div class="cartel-bienvenida position-absolute top-0 end-0 m-3">
-        <h2 id = "saludo" class="text-primary"><?= "$saludo <br>"?></h2>
+<div class="content-wrapper">
+    <div class="cartel-bienvenida">
+        <h2 id="saludo" class="text-primary"><?= $saludo ?><br></h2>
     </div>
-    <br>
-
+    <div class="img-logo_af-bienvenido">
+        <img src="<?= base_url('assets/images/logo_af.png'); ?>" alt="Logo AF" style="max-height: 60%;">
+    </div>
 </div>
